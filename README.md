@@ -1,5 +1,5 @@
-                                   ### Hi there, I'm Alba 👋 
-                           And I would like to tell you something about me... 
+                                                ### Hi there, I'm Alba 👋 
+                                      And I would like to tell you something about me... 
 
   I am a full stack developer, currently working at Entrust Consultants. It all started after arriving 
 from a long backpacking trip in Europe and finding jobs that did not satisfy me professionally.
