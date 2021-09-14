@@ -16,5 +16,5 @@ always a puzzle to figure out and lots of new things to learn.</p>
 
 
 - Auriga: Formed by a group of four people, we started this project in June. Auriga is a Spanish company dedicated to car service and maintenance.
-It's built with React, styled-components and atomic design. We also use NodeJS and Express, and MongoDB as a database. You can see it in the following <a href="https://auriga-app.herokuapp.com/" target="_blank">link, at the moment we only have the mobile version, so adjust the screen to see it well.
+It's built with React, styled-components and atomic design. We also use NodeJS and Express, and MongoDB as a database. You can see it in the following <a href="https://auriga-app.herokuapp.com/" target="_blank">link</a>, at the moment we only have the mobile version, so adjust the screen to see it well.
 
